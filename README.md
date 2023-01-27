@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+# Framework (Vite - Vue - Tailwind)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description 
 
-## Recommended IDE Setup
+C'est un projet visant à découvir et à utiliser pour la première fois des frameworks (Vue - Vite - Tailwind). Il est en Codéveloppement avec [@C00MAR](https://github.com/C00MAR). Le but est de reproduire une maquette.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Installation
+
+Vous pouvez accéder au projet ici : https://framework-vite-vue-tailwind.vercel.app/.
+
+Pour installer et utiliser le projet :
+
+- Vous avez simplement à télécharger le zip 
+- Ouvir un Terminal dans le dossier et lancer 
+npm install
+- Ensuite vous pouvez lancer 
+npm run dev
+- Normalement tout fonctionne, il suffit de cliquer sur le lien renvoyer par le terminal.
